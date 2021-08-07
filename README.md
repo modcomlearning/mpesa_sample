@@ -6,3 +6,5 @@
 ###### Step 2: Create an MPESA Developer Portal, Create an App on Mpesa Developer Portal
 ###### Step 3: Write C2B code ...
 ###### Step 4: Go Live.
+
+https://modcom.co.ke
